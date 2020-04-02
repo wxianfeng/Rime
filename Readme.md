@@ -37,7 +37,7 @@ menu:
 `touch squirrel.custom.yaml`
 
 内容如下:
-https://github.com/mritd/rime/blob/master/iMac-Home/squirrel.custom.yaml
+[squirrel.custom.yaml](./squirrel.custom.yaml)
 
 ## 使用符号
 `vi luna_pinyin_simp.custom.yaml`
