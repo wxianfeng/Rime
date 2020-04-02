@@ -12,22 +12,21 @@ https://rime.im/download/
 Mac 版本下载 鼠鬚管，我安装的是 0.14.0 版本
 
 ## 选择输入法
-ctrl + ~ 键切换
+`ctrl` + `~` 键切换
 简体中文选择: 朙月拼音・简化字
 
 ## 安装 rime-install
-curl -fsSL https://git.io/rime-install | bash
+`curl -fsSL https://git.io/rime-install | bash`
 
 ## 安装 Emoji 插件
-bash plum/rime-install emoji
+`bash plum/rime-install emoji`
 
 给输入法添加 emoji 插件
-bash plum/rime-install emoji:customize:schema=luna_pinyin_simp
+`bash plum/rime-install emoji:customize:schema=luna_pinyin_simp`
 
 重新 deploy 后可以使用表情
 
 ## 设置候选词个数
-vi default.yaml
 `vi default.yaml`
 ```
 menu:
