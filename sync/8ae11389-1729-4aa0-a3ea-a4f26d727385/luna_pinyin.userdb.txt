@@ -1,0 +1,98 @@
+# Rime user dictionary
+#@/db_name	luna_pinyin.userdb
+#@/db_type	userdb
+#@/rime_version	1.5.3
+#@/tick	150
+#@/user_id	8ae11389-1729-4aa0-a3ea-a4f26d727385
+a 	啊	c=1 d=0.511709 t=150
+an xia 	按下	c=1 d=0.771052 t=150
+an zhuang 	安裝	c=4 d=2.44765 t=150
+ba 	吧	c=2 d=1.51218 t=150
+biao qing 	表情	c=2 d=1.31749 t=150
+bu qing chu 	不清楚	c=1 d=1 t=150
+bu shi 	不是	c=4 d=2.39809 t=150
+bu shi de 	不是的	c=3 d=2.69412 t=150
+bu shi de ba 	不是的吧	c=1 d=0.856415 t=150
+bu zhi dao 	不知道	c=2 d=1.83301 t=150
+cha jian 	插件	c=2 d=1.23763 t=150
+chen qie 	臣妾	c=1 d=0.822835 t=150
+cheng 	成	c=0 d=0.0814647 t=150
+cheng qie ye zuo bu dao 	成伽倻做不到	c=1 d=0.818731 t=150
+chong xin 	重新	c=1 d=0.65377 t=150
+ci 	詞	c=1 d=0.913931 t=150
+de 	的	c=4 d=2.41011 t=150
+dui de 	對的	c=1 d=0.88692 t=150
+en en 	嗯嗯	c=1 d=0.814647 t=150
+fang an 	方案	c=1 d=0.97531 t=150
+ge shu 	個數	c=1 d=0.918512 t=150
+gei 	給	c=1 d=0.640824 t=150
+geng gai 	更改	c=1 d=0.923116 t=150
+gong ju 	工具	c=2 d=1.22531 t=150
+ha 	哈	c=1 d=0.551563 t=150
+ha ha 	哈哈	c=4 d=2.42768 t=150
+hai hao 	還好	c=1 d=0.715338 t=150
+hao de 	好的	c=14 d=10.3569 t=150
+hou 	後	c=1 d=0.657047 t=150
+hou xu 	後續	c=1 d=0.737123 t=150
+jie jue fang an 	解決方案	c=1 d=0.748264 t=150
+ke yi 	可以	c=1 d=0.66034 t=150
+kong le 	空了	c=1 d=0.543351 t=150
+kong zhi tai 	控制檯	c=1 d=0.752014 t=150
+le 	了	c=5 d=3.09026 t=150
+li hai 	厲害	c=0 d=0.0900325 t=150
+li hai o 	厲害噢	c=1 d=0.904837 t=150
+mo ren 	默認	c=2 d=1.74052 t=150
+mo shi 	模式	c=1 d=0.637628 t=150
+na shi 	那是	c=1 d=0.514274 t=150
+ne 	呢	c=2 d=1.56126 t=150
+nei rong 	內容	c=2 d=1.8883 t=150
+ni shi 	你是	c=1 d=0.484325 t=150
+ni shuo 	你說	c=4 d=2.12915 t=150
+ni shuo ba 	你說吧	c=1 d=0.486752 t=150
+ni shuo ne 	你說呢	c=1 d=0.701173 t=150
+nu shuo 	怒說	c=1 d=0.852144 t=150
+o 	哦	c=1 d=0.548812 t=150
+o 	噢	c=0 d=0.0900325 t=150
+pei se 	配色	c=1 d=0.927743 t=150
+pei zhi 	配置	c=2 d=1.41347 t=150
+qie huan 	切換	c=1 d=0.631284 t=150
+qie ye 	伽倻	c=0 d=0.0814647 t=150
+ru xia 	如下	c=1 d=0.946485 t=150
+she me 	什麼	c=1 d=0.516851 t=150
+shi 	是	c=2 d=1.57334 t=150
+shi ba 	是吧	c=1 d=0.895834 t=150
+shi de 	是的	c=1 d=0.900325 t=150
+shi yong 	使用	c=2 d=1.3441 t=150
+shu ru 	輸入	c=3 d=2.19654 t=150
+shu ru fa 	輸入法	c=5 d=3.56764 t=150
+shu xu guan 	鼠鬚管	c=1 d=0.527292 t=150
+sui ni 	隨你	c=0 d=0.0722527 t=150
+sui ni ba 	隨你吧	c=1 d=0.726149 t=150
+tian jia 	添加	c=2 d=1.57966 t=150
+tian xie 	填寫	c=1 d=0.941765 t=150
+wen ti 	問題	c=1 d=0.519442 t=150
+wo 	我	c=1 d=0.559898 t=150
+wo ye 	我也	c=1 d=0.980199 t=150
+wu fa 	無法	c=2 d=1.43284 t=150
+xi tong 	系統	c=1 d=0.955997 t=150
+xia 	下	c=1 d=0.546074 t=150
+xia zai 	下載	c=1 d=0.597501 t=150
+xiao 	小	c=1 d=0.586386 t=150
+xiao xiu gai 	小修改	c=2 d=1.09775 t=150
+xiu gai 	修改	c=1 d=0.589055 t=150
+xu yao 	需要	c=2 d=1.50803 t=150
+yan se 	顏色	c=1 d=0.970446 t=150
+ye 	也	c=1 d=0.826959 t=150
+yi dian 	一點	c=1 d=0.554327 t=150
+yi xie 	一些	c=2 d=1.06788 t=150
+ying wen 	英文	c=1 d=0.798516 t=150
+zai 	在	c=1 d=0.786628 t=150
+zhao dao 	找到	c=1 d=0.744532 t=150
+zhe ge 	這個	c=2 d=1.23502 t=150
+zhi dao 	知道	c=5 d=3.07485 t=150
+zhi dao le 	知道了	c=2 d=1.19675 t=150
+zhong 	中	c=1 d=0.790571 t=150
+zhong duan 	終端	c=1 d=0.67368 t=150
+zhong wen 	中文	c=2 d=1.54608 t=150
+zhuang tai 	狀態	c=1 d=0.806541 t=150
+zuo bu dao 	做不到	c=1 d=0.912569 t=150

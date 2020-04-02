@@ -1,0 +1,9 @@
+__patch:
+# Rx: emoji:customize:schema=luna_pinyin_simp {
+  - patch/+:
+      __include: emoji_suggestion:/patch
+# }
+patch:
+  punctuator/import_preset: symbols
+  recognizer/patterns/punct: '^/([0-9]0?|[A-Za-z]+)$'
+
