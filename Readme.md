@@ -26,6 +26,8 @@ Mac 版本下载 鼠鬚管，我安装的是 0.14.0 版本
 
 重新 deploy 后可以使用表情
 
+  ![](http://wxianfeng.com/files/rime_emoji.png)
+
 ## 设置候选词个数
 `vi default.yaml`
 ```
