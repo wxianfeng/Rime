@@ -33,6 +33,9 @@ menu:
   page_size: 8
 ```
 
+## 词频统计
+自带词频统计，输入频率高的会显示在最前面
+
 ## 设置颜色
 `touch squirrel.custom.yaml`
 
@@ -54,6 +57,16 @@ patch:
 ```
 
 输入法状态下输入 `/hm` 就会出现符号候选
+
+## 设置模糊音
+`vi luna_pinyin_simp.custom.yaml`
+添加如下内容:
+https://gist.github.com/lotem/2320943
+
+需要模糊的去掉前面 # 注释
+
+## 阿里土话
+输入 `/ali` 后出现候选
 
 ## 提示
 ### 终端无法输入中文

@@ -7,7 +7,7 @@ __build_info:
     emoji_suggestion.custom: 0
     key_bindings: 1585830275
     key_bindings.custom: 0
-    luna_pinyin_simp.custom: 1585834664
+    luna_pinyin_simp.custom: 1585911772
     luna_pinyin_simp.schema: 1585830272
     punctuation: 1585830275
     punctuation.custom: 0
@@ -379,6 +379,17 @@ simplifier:
 speller:
   algebra:
     - "erase/^xx$/"
+    - "derive/^([zcs])h/$1/"
+    - "derive/^([zcs])([^h])/$1h$2/"
+    - "derive/^hu$/fu/"
+    - "derive/^hu([in])$/fe$1/"
+    - "derive/^hu([ao])/f$1/"
+    - "derive/^fu$/hu/"
+    - "derive/^fe([in])$/hu$1/"
+    - "derive/^f([ao])/hu$1/"
+    - "derive/^([bpmf])eng$/$1ong/"
+    - "derive/([ei])n$/$1ng/"
+    - "derive/([ei])ng$/$1n/"
     - "abbrev/^([a-z]).+$/$1/"
     - "abbrev/^([zcs]h).+$/$1/"
     - "derive/^([nl])ve$/$1ue/"
