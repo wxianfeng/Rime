@@ -76,6 +76,28 @@ https://gist.github.com/lotem/2320943
 
   ![](http://wxianfeng.com/files/rime_ali.png)
 
+## 禁用 shift 切换到英文输入状态
+`vi default.yaml`
+```
+# Shift_L: inline_ascii
+```
+
+## 解决 iTerm2 无法输入中文问题
+`vi squirrel.custom.yaml`
+```
+patch
+  "app_options/com.googlecode.iterm2/ascii_mode": false
+```
+
+## 解决 VSCode 无法输入中文
+`vi squirrel.custom.yaml`
+```
+patch
+  "app_options/com.microsoft.VSCode/ascii_mode": false
+```
+
+
+
 ## 提示
 ### 终端无法输入中文
     需要按下 shift 键，默认在 terminal 中是英文输入状态
