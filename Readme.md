@@ -100,4 +100,4 @@ patch
 
 ## 提示
 ### 终端无法输入中文
-    需要按下 shift 键，默认在 terminal 中是英文输入状态
+    未禁用 Shift 的话，需要按下 shift 键，默认在 terminal 中是英文输入状态
