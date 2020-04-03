@@ -40,7 +40,11 @@ menu:
 `touch squirrel.custom.yaml`
 
 内容如下:
-[squirrel.custom.yaml](./squirrel.custom.yaml)
+  [squirrel.custom.yaml](./squirrel.custom.yaml)
+
+配置好效果如下:
+
+  ![](http://wxianfeng.com/files/rime_color.png)
 
 ## 使用符号
 `vi luna_pinyin_simp.custom.yaml`
