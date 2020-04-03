@@ -72,6 +72,8 @@ https://gist.github.com/lotem/2320943
 ## 阿里土话
 输入 `/ali` 后出现候选
 
+  ![](http://wxianfeng.com/files/rime_ali.png)
+
 ## 提示
 ### 终端无法输入中文
     需要按下 shift 键，默认在 terminal 中是英文输入状态
